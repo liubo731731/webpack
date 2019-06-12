@@ -1,0 +1,11 @@
+@font-face {
+ 	font-family: 'MyFont';
+ 	src:url('./Sansation_Light.ttf');
+	color:red;
+
+ }
+
+ .hello {
+ 	font-family: 'MyFont';
+ 	background: url('./logo.png');
+ }
